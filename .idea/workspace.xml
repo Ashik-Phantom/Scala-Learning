@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4877591-35de-4e5c-9df9-bcdeca38a72e" name="Changes" comment="Till chapter 3 end">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter4/AppTrait.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter4/ClassesExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter5/BasicTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter5/OperatorsAndMethods.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     "last_opened_file_path": "C:/Users/Ashik/IdeaProjects/Scala handson"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AppTrait">
+  <component name="RunManager" selected="Application.OperatorsAndMethods">
     <configuration name="AppTrait" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4.AppTrait" />
       <module name="Scala-Learning" />
@@ -72,25 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSets" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.BasicSets" />
+    <configuration name="BasicTypes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.BasicTypes" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicTuples" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.BasicTuples" />
-      <module name="Scala-Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
+          <option name="PATTERN" value="Chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatorsAndMethods" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter5.OperatorsAndMethods" />
+      <module name="Scala-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorsAndMethods" />
+        <item itemvalue="Application.BasicTypes" />
         <item itemvalue="Application.AppTrait" />
         <item itemvalue="Application.ClassesExample" />
         <item itemvalue="Application.BasicMap" />
-        <item itemvalue="Application.BasicSets" />
-        <item itemvalue="Application.BasicTuples" />
       </list>
     </recent_temporary>
   </component>
