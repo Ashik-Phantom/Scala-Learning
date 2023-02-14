@@ -54,9 +54,11 @@ object BasicList {
 
         println(l1.filter(i => i.length <= 2))   // filters the list and return
 
+        println("For all")
         println(l1.forall(i => i == "a"))
         println(l1.forall(i => i.endsWith("e")))
 
+        println("For each")
         println(l1.foreach(i => print(i + " ")))
         println(l1.foreach(print))
 

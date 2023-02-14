@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4877591-35de-4e5c-9df9-bcdeca38a72e" name="Changes" comment="Till chapter 3 end">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter6/Rational.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter16/WorkingWithList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/ArrrayExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/ConvertingCollections.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/ListExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/MapsExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/QueueExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/SetsExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/StacksExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter17/TuplesExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter7/ContolStructures.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter7/ExceptionHandling.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter7/default.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter7/imperativeStyleCode.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter8/functionsEx.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/EmployeeProject/Company.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/EmployeeProject/Employee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/EmployeeProject/Main.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter5/OperatorsAndMethods$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter5/OperatorsAndMethods$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Chapter3/BasicList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Chapter3/BasicList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter3/BasicList$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter3/BasicList$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +62,13 @@
     "last_opened_file_path": "C:/Users/Ashik/IdeaProjects/Scala handson"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Rational">
-    <configuration name="AppTrait" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.AppTrait" />
+  <component name="RunManager" selected="Application.functionsEx">
+    <configuration name="ContolStructures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.ContolStructures" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicTypes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.BasicTypes" />
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.ExceptionHandling" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassesExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.ClassesExample" />
+    <configuration name="WorkingWithList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter16.WorkingWithList" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.*" />
+          <option name="PATTERN" value="Chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsAndMethods" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter5.OperatorsAndMethods" />
+    <configuration name="functionsEx" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter8.functionsEx" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter5.*" />
+          <option name="PATTERN" value="Chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rational" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6.Rational" />
+    <configuration name="imperativeStyleCode" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.imperativeStyleCode" />
       <module name="Scala-Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter6.*" />
+          <option name="PATTERN" value="Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rational" />
-        <item itemvalue="Application.OperatorsAndMethods" />
-        <item itemvalue="Application.BasicTypes" />
-        <item itemvalue="Application.AppTrait" />
-        <item itemvalue="Application.ClassesExample" />
+        <item itemvalue="Application.functionsEx" />
+        <item itemvalue="Application.imperativeStyleCode" />
+        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.ContolStructures" />
+        <item itemvalue="Application.WorkingWithList" />
       </list>
     </recent_temporary>
   </component>
