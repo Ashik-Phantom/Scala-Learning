@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4877591-35de-4e5c-9df9-bcdeca38a72e" name="Changes" comment="Till chapter 3 end">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter15/ArithExp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter15/Express.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Chapter15/OptionType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/ContinentData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/CountryData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/CurrencyData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Continent.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Country.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Land.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Service/GeoData.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Chapter16/WorkingWithList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Chapter16/WorkingWithList.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter16/WorkingWithList$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter16/WorkingWithList$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter16/WorkingWithList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter16/WorkingWithList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Chapter15/Express.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Chapter15/Express.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/ExprFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/ExprFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$delayedInit$body.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +62,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Ashik/IdeaProjects/Scala-Learning&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Express">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArithExp" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Chapter15.ArithExp" />
       <module name="Scala-Learning" />
@@ -69,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GeoDataProject.Main" />
+      <module name="Scala-Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GeoDataProject.Service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionsEx" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.functionsEx" />
-      <module name="Scala-Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Express" />
         <item itemvalue="Application.ArithExp" />
         <item itemvalue="Application.OptionType" />
         <item itemvalue="Application.WorkingWithList" />
-        <item itemvalue="Application.functionsEx" />
       </list>
     </recent_temporary>
   </component>

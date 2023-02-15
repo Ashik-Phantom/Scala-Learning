@@ -24,6 +24,7 @@ class ExprFormatter {
                 i <- 0 until opGroups.length
                 op <- opGroups(i)
             } yield op -> i
+
         println(assocs)
         Map() ++ assocs
     }
