@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4877591-35de-4e5c-9df9-bcdeca38a72e" name="Changes" comment="Till chapter 3 end">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/ContinentData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/CountryData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Data/CurrencyData.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Continent.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Country.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Entity/Land.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GeoDataProject/Service/GeoData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Chapter15/Express.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Chapter15/Express.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/ExprFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/ExprFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/Chapter15/Express$delayedInit$body.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ashik/IdeaProjects/Scala-Learning&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Ashik/IdeaProjects/Scala-Learning",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="ArithExp" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Chapter15.ArithExp" />
